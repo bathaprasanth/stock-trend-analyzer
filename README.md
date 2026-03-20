@@ -92,3 +92,14 @@ Wait 60 seconds between analyses to avoid rate limits.
 
 ## ⚠️ Disclaimer
 For educational purposes only. Not financial advice.
+
+## OutPut 
+<img width="1864" height="676" alt="image" src="https://github.com/user-attachments/assets/6516409f-92a1-46cb-84a2-25f37dbd3585" />
+<img width="1356" height="735" alt="image" src="https://github.com/user-attachments/assets/55b2b6e4-d954-4c86-8525-f17b5594246d" />
+<img width="1296" height="561" alt="image" src="https://github.com/user-attachments/assets/4956ac39-5be4-4b0e-8007-f84beb5a78f7" />
+<img width="1285" height="548" alt="image" src="https://github.com/user-attachments/assets/f2f8e42f-347b-41cf-b6f1-fa39a0a50781" />
+<img width="1336" height="756" alt="image" src="https://github.com/user-attachments/assets/87603a33-996b-4ea0-a351-9c81eb41da80" />
+
+
+
+
