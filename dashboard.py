@@ -5,7 +5,8 @@ Stock Trend Analyzer v2 — Streamlit Dashboard (Optimized)
 - Follow-up questions use cached context (instant!)
 - Run with: streamlit run dashboard.py
 """
-
+import pkg_resources
+import setuptools
 import time
 import os
 import streamlit as st
