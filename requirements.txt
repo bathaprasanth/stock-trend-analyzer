@@ -1,5 +1,5 @@
-crewai>=0.80.0
-crewai-tools>=0.14.0
+crewai==0.80.0
+crewai-tools==0.14.0
 yfinance>=0.2.40
 python-dotenv>=1.0.0
 pandas>=2.0.0
